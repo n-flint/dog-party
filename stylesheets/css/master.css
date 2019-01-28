@@ -22,11 +22,7 @@ nav li {
   padding: 17px 10px;
 }
 
-header h1 {
-  float: left;
-  text-indent: -9999px;
-  /* I understand what this next line does, just not really sure how it exactly happening here */
-  background: url('../../images/dog-icon.svg') no-repeat;
+header img {
   height: 35px;
   width: 35px;
   margin-top: 8px;
